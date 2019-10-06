@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="c7ca929d-b4f0-4cc4-9251-a6d64bfa76b7" name="osspll@naver.com">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
